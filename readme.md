@@ -2,5 +2,5 @@
 Android login and signup screen ui in android studio (Android xml).
 
 ### Images
-![Login Screen UI](https://raw.githubusercontent.com/droidtemplates/t001-loginui/master/activity_login.png width="200"  )
-![Sign Uo Screen UI](https://raw.githubusercontent.com/droidtemplates/t001-loginui/master/activity_signup.png | width=500)
+![Login Screen UI](https://raw.githubusercontent.com/droidtemplates/t001-loginui/master/activity_login.png)
+![Sign Uo Screen UI](https://raw.githubusercontent.com/droidtemplates/t001-loginui/master/activity_signup.png=250x250)
