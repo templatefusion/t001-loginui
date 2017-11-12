@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="hint_email">Enter email address</string>
+    <string name="hint_password">Enter password</string>
+    <string name="hint_password_confirm">Confirm password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="text_signup">Need Sign Up?</string>
+    <string name="text_signin">Login</string>
+    <string name="text_forgot_password">Forgot Password?</string>
+</resources>
